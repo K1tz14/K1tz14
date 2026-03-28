@@ -2,10 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Kit%20|%20Web%20Developer&fontSize=40&fontAlignY=35"/>
 </p>
 
-<h1 align="center">Hi, I'm Kit</h1>
+<h1 align="center">Hi, I'm Kitzia</h1>
 
 <p align="center">
-Full-Stack Web Developer focused on building modern web applications.
+Full-Stack Web Developer and designer focused on building modern web applications.
 </p>
 
 <p align="center">
@@ -81,9 +81,9 @@ More projects are available in my repositories.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=K1tz14&show_icons=true&theme=default"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1tz14&layout=compact"/>
 
 </p>
 
