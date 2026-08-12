@@ -5,7 +5,7 @@
     <a href="./LEEME.md"><img src="https://img.shields.io/badge/README-ESP-blue?color=696969&labelColor=d3d3d3&style=for-the-badge"></a>
     <a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=696969&labelColor=d3d3d3&style=for-the-badge"></a>
   </div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=70&lines=¡Bienvenido+a+mi+espacio!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=70&lines=%C2%A1Se+bienvenido+a+mi+espacio!" alt="Typing SVG" /></a>
 </section>
 
 ## Desarrolladora Web · Desarrolladora Full-Stack · Diseñadora UI & Web
@@ -56,5 +56,5 @@ Algunas de las soluciones que puedo desarrollar incluyen:
 ## 
 
 <section align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=70&lines=¡Gracias+por+visitar+mi+espacio!" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=70&lines=%C2%A1Gracias+por+visitar+mi+espacio!" alt="Typing SVG" /></a>
 </section>
